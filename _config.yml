@@ -9,7 +9,7 @@
 locale                   : "CN Shenzhen"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Shu Ban"
+name                     : &name "ShuBan"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
