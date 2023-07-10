@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "CN Shenzhen"
-title                    : "Your Name / Site Title"
+title                    : "Shu Ban"
 title_separator          : "-"
 name                     : &name "ShuBan"
 description              : &description "personal description"
