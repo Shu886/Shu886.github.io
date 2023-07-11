@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "shu Ban's academic personal websites"
+title: "Shu Ban's academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
