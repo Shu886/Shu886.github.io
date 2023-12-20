@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* M.E. in EE, Southern University of Science and Technology, expected 2026
 * B.E. in Industrial Design, Southern University of Science and Technology, 2023
 
 
